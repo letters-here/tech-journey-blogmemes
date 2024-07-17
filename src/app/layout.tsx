@@ -10,8 +10,8 @@ TODO:  Change these things along with:
   - favicon.ico in /public
  */
 const font = Poppins({ weight: '700', subsets: ['latin']})
-const title = 'Luke\'s Site';
-const description = 'This my personal site';
+const title = 'Sebastian\'s Site';
+const description = 'BEST WEBSITE ON THE INTERNET BABY!!!!!!!!!!!!!';
 const links = [
   {title: 'Google', href: 'https://www.google.com'},
   {title: 'Rick and Morty', href: '/rick-and-morty'}
